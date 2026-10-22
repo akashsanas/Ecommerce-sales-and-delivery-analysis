@@ -13,7 +13,7 @@ It aims to identify revenue trends, high-performing product categories, customer
 
 - a< href="https://github.com/akashsanas/Ecommerce-sales-and-delivery-analysis/blob/main/olist_orders_dataset.csv">Dataset</a>
 
-- a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_products_dataset.csv">Dataset</a>
+- a< href="https://github.com/akashsanas/Ecommerce-sales-and-delivery-analysis/blob/main/olist_products_dataset.csv">Dataset</a>
 
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_sellers_dataset.csv">Dataset</a>
 
